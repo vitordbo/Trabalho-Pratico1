@@ -1,2 +1,4 @@
 # Trabalho-Pratico1
-Second project of the computer programming discipline
+First project of the computer programming discip
+First project of the computer programming discipline. Instructions are in the pdf file. 
+First project requested by the teacher in the computer programming discipline .
